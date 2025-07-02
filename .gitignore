@@ -1,0 +1,21 @@
+# NetBeans y archivos generados
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Maven
+target/
+*.lst
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

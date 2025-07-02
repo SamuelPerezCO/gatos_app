@@ -29,6 +29,7 @@ public class Gatos_app {
             
             switch(opcion_menu){
                 case 0:
+                    GatosService.verGatos();
                     break;
                 default:
                     break;       
