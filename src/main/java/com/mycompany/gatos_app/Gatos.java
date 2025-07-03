@@ -9,16 +9,16 @@ package com.mycompany.gatos_app;
  * @author serna
  */
 public class Gatos {
-    int id;
+    String id;
     String url;
     String apikey = "live_4RXBvCzOEsiAnSEncEMA5iCUMYuHpd4GmAqQTYPgxcZiXQeKEn4LNX7wpaKQuC8r";
     String image;
 
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
