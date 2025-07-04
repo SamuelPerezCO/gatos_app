@@ -109,4 +109,8 @@ public class GatosService {
             System.out.println("El error es " + e);
         }
     }
+    
+    public static void verFavorito(String apikey){
+    
+    }
 }
